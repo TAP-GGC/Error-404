@@ -29,7 +29,7 @@ You can select from a range of audiences or a single auidience. Examples:
     K-12
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
-* <b>Difficulty Level:</b> Choose your workshop difficulty (Beginner/Intermediate/Advanced)
+* <b>Difficulty Level:</b> Beginner (Beginner/Intermediate/Advanced)
 * <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
 * <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
 * <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
@@ -50,15 +50,14 @@ You can select from a range of audiences or a single auidience. Examples:
 > (From left to right: Batman,  Wonder Woman, Superman.)
 <!-- replace with full names of your team members -->
 
-* Team Member 1
-* Team Member 2
-* Team Member 3
-* Team Member 4
+* Tuan Nguyen
+* Zara Nazari
+* Jake Sergent
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. John Doe
-* Dr. Jane Doe
+* Dr. Wei Jin
+* Dr. Xin Xu
 
 
 ## :page_with_curl: Project Description
@@ -73,8 +72,8 @@ A more thorough description of your project. Not a full walkthrough, but describ
 
 Example:
 
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+1. <b>TAP Expo</b>, March 5, 2026, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, April 6-10, 2026, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
@@ -120,7 +119,8 @@ Example:
 2. Press the Right arrow key to move to the right.
 3. Press the Up arrow key to move up.
 4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
+5. Press "F" to interact with the objects that displayed on the screen.
+6. You may also replace the arrow keys with a Makey Makey. 
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
