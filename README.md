@@ -3,16 +3,16 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
-  <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team ... </p>
+  <h1 align="center">Escape the Code Lab: A Game that Emphasizes the Importance of Parameters, Return Types, and Cybersecurity</h1>
+  <p align="center">A project for students 11+ by Error 404: Team Name Not Found </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
+The objective of the workshop is to teach the fundamentals of Java programming and the importance of cybersecurity.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+This workshop has participants do a few basic methods in a Processing sketch and see the game itself using Makey-Makey and Play-Doh as a controller.
 
 ## :bulb: Project Information
 <!-- 
@@ -29,12 +29,12 @@ You can select from a range of audiences or a single auidience. Examples:
     K-12
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
-* <b>Difficulty Level:</b> Beginner (Beginner/Intermediate/Advanced)
-* <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
-* <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
-* <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
-* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
-* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+* <b>Difficulty Level:</b> Beginner
+* <b>Target Audience:</b> Grade 6 - College
+* <b>Duration of Workshop:</b> 90 minutes
+* <b>Needed Materials:</b> Computer with keyboard and USB port, Makey-Makey kit
+* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants the importance of parameters and return types as well as the basics of cybersecurity.
+* <b>Your Main Technology</b> Processing - a sketch structure for combining classes and methods; Makey-Makey - an interactive element that turns any conductor into an input 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
@@ -42,7 +42,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team: Team Name
+## :pencil2: Team: Error 404: Team Name Not Found
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
@@ -52,7 +52,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 * Tuan Nguyen
 * Zara Nazari
-* Jake Sergent
+* Jake Sargent
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
@@ -61,24 +61,14 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
-
-## :memo: Publications
-<!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+This workshop will show you how to install and run Processing and set up Makey-Makey to use any conductor as a controller. Our goal is to teach the basics of what every function in a project does and the importance of protecting oneself against cybersecurity threats. You will create your own basic functions in a Processing sketch and play the game using the peripheral hardware provided.
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
-
-Example:
-
-1. <b>TAP Expo</b>, March 5, 2026, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 6-10, 2026, Georgia Gwinnett College: to promote the IT field to non-IT students.
-
-## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
-
-If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+1. <b>TAP Expo </b>, March 5, 2026, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Atlanta Science Festival </b>, March 7, 2026, Georgia Gwinnett College: to demonstrate our project and garner interest in the IT field.
+3. <b>Class Workshops </b>, April 6-10, 2026, Georgia Gwinnett College: to promote the IT field to non-IT students.
+4. <b>Super Saturday </b>, April 18, 2026, Georgia Gwinnett College: to promote various scientific and IT fields to younger students still exploring interests.
+5. <b>Norcross Innovation Showcase </b>, April 25, 2026, Lillian Webb Park: to promote the IT field to attendees.
 
 ## :computer: Technology
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
@@ -87,40 +77,45 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
   <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* [Processing](https://processing.org/) is a sketch-based platform for coding in a way that gives extra support to classes.
+* The sketch tab tracks the display elements of your program while all the business classes are run behind the scenes in separate tabs.
+* [Makey-Makey](https://makeymakey.com/) is a hardware kit that turns anything you can think of that conducts electricity into a controller for your game or other program. By connecting your controller objects to the circuit board and the board to the computer, you can add an extra fun element to anything you run.
+* We chose this technology because it was easiest to pick up and adapt to our needs and to add an interactive layer to running the game itself.
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
 </p>
 
-## Project Setup/Installation 
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
+## Project Setup/Installation
 
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
+### Setting up Makey-Makey
+[What you will need: Makey-Makey kit, Velcro wrist strap peripheral, five conductive objects (fruits, aluminum foil, Play-Doh, etc.)]
 
-### Opening a blank Scratch page 
-[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
-
-[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
+1. Plug the USB-A end of the larger red cable into your computer's USB port.
+2. Plug the opposite end into the circuit board's covered port on the top right.
+3. Take five short white wires from the bag and plug one end of each into each of the W, A, S, D, and F slots in the black box on the left side of the circuit board.
+4. Take six alligator clip wires from the box and clamp five of them onto the free ends of the short white wires. Arrange the opposite ends as you like.
+5. Clamp the sixth alligator clip through a hole on the bottom right side of the board. Clamp the opposite end onto the clip end of the Velcro wrist strap's wire.
+6. Wrap the strap around either wrist and secure it to itself. Make sure that the metal sensor plate is firmly in direct contact with your skin.
+7. Plug the open ends of the W, A, S, D, and F alligator clips into your conductive objects to use as your controller inputs.
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
+## Processing Installation Walkthrough
 
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
+1. Go to processing.org
+2. Click the blue "Download" button on the left side of the screen
+3. You will be redirected to another page with a central button to download (you may scroll down to find options for alternate operating systems as well).
+4. Click "Download Processing 4.5.2 for {OS}" and follow prompts to install.
+5. Once it is installed, click the green "Code" button in GitHub followed by "Download ZIP."
+6. Unzip the files in your computer's file storage and open in Processing.
+7. Click the play button at the top of the window to run the code.
 
 ## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. Press "F" to interact with the objects that displayed on the screen.
-6. You may also replace the arrow keys with a Makey Makey. 
+1. Press your chosen A object to move to the left.
+2. Press your chosen D object to move to the right.
+3. Press your chosen W object to move up.
+4. Press your chosen S object to move down.
+5. Press your chosen F object to interact with the items that appear throughout the game.
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
