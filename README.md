@@ -42,7 +42,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team: Error 404: Team Name Not Found
+## :pencil2: Team: Error 404
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/TeamPhoto.jpg" width="" height="300">
