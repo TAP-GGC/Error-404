@@ -119,7 +119,7 @@ This workshop will show you how to install and run Processing and set up Makey-M
 [Demo Video on how to install and play our game](https://ggcedu-my.sharepoint.com/:v:/g/personal/tnguyen194_ggc_edu/IQDg8pNiL4bKQozytDk6t33AAVZb6esJyF3fo_gsIrkDCl4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tPSa8I)
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file]((documents/workshop%20materials/TAP%20Poster.pdf))
+[Click here to view workshop walkthrough pdf file](documents/workshop%20materials/TAP%20Poster.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
