@@ -74,7 +74,8 @@ This workshop will show you how to install and run Processing and set up Makey-M
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Scratch Logo" src = "media/technology/ProcessingLogo.png" width="200" height="200"/>
+  <img alt="Makey Logo" src = "media/technology/MakeymakeyLogo.png" width="200" height="200"/>
 </p>
 
 * [Processing](https://processing.org/) is a sketch-based platform for coding in a way that gives extra support to classes.
@@ -82,14 +83,11 @@ This workshop will show you how to install and run Processing and set up Makey-M
 * [Makey-Makey](https://makeymakey.com/) is a hardware kit that turns anything you can think of that conducts electricity into a controller for your game or other program. By connecting your controller objects to the circuit board and the board to the computer, you can add an extra fun element to anything you run.
 * We chose this technology because it was easiest to pick up and adapt to our needs and to add an interactive layer to running the game itself.
 
-<p align="center">
-<img src = "media/technology/block-based language.png" width ="400" height="200">
-</p>
-
 ## Project Setup/Installation
 
 ### Setting up Makey-Makey
-[What you will need: Makey-Makey kit, Velcro wrist strap peripheral, five conductive objects (fruits, aluminum foil, Play-Doh, etc.)]
+[What you will need: Makey-Makey kit, Velcro wrist strap peripheral, five conductive objects (fruits, aluminum foil, Play-Doh, etc.)]  
+
 
 1. Plug the USB-A end of the larger red cable into your computer's USB port.
 2. Plug the opposite end into the circuit board's covered port on the top right.
